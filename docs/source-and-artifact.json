@@ -1,0 +1,649 @@
+{
+  "schema": "crays.website.source-artifact-index.v1",
+  "site": "pro",
+  "repository": "CraysCircle/crays-pro",
+  "qualifiedSourceCaptureHistory": {
+    "head": "96a2166199f0df07924b85c64fa831c9a87ca132",
+    "tree": "df0ebbc30c09f750b3a4205c802d8111aff5161b",
+    "commits": 2,
+    "scope": "Complete specifically qualified derived website capture only, not all earlier mixed product history"
+  },
+  "originalSourceFiles": [
+    {
+      "bytes": 69,
+      "path": ".gitignore",
+      "sha256": "7890a952c4cba1ced1c392de2f1ff4da6869063d02fcb6cb2e34cfb6bb86f73f",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 3992,
+      "path": "SOURCE_BASELINE_BINDING.json",
+      "sha256": "d948323bad06de972d452d89c4de23d30f97dd0695fca195ccc7c6995fffa8cd",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 247,
+      "path": "next-env.d.ts",
+      "sha256": "7b550dda9686c16f36a17bf9051d5dbf31e98555b30d114ac49fc49a1e712651",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 2713,
+      "path": "next.config.ts",
+      "sha256": "cd5eef81a3ad66824e46feae7210b838fcf2e59800387a80cbb00a342d67b2c5",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 367,
+      "path": "package.json",
+      "sha256": "03290a488288192b70262baa357bcbaee5e9b6c67476f8e07d37b3d8de016f7d",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 94,
+      "path": "postcss.config.mjs",
+      "sha256": "dfac7ac2d86d326a0e5adb024e7943c181393ed17a5fcb8f0315b24c7da6ddde",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 786,
+      "path": "src/app/account/page.tsx",
+      "sha256": "885129c253cccaf14e802f191b67f9334dd8dc19543cdec0999448c24724a489",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 548,
+      "path": "src/app/account/pro-account-frame.module.css",
+      "sha256": "56b9e85f303af7db0a8ac2b70a0fc248490255cebdbaa17748ac415cbadb28f0",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 5211,
+      "path": "src/app/crays-franchise/[[...slug]]/page.tsx",
+      "sha256": "8d97bdebfaf10677d3a7c9320182cca3e485f0122cf844a0e67f6cf5575666dd",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 1373,
+      "path": "src/app/crays-franchise/layout.tsx",
+      "sha256": "44462da2b1709788c9ae431f3bb7deff423b308166e9ad6edef74a836a660c4f",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 629,
+      "path": "src/app/crays-franchise/robots.txt/route.ts",
+      "sha256": "21e9de9d006ce09cc0f4219059c1dd480425dfd17e353523e4d43daa19b0161b",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 666,
+      "path": "src/app/crays-franchise/sitemap.xml/route.ts",
+      "sha256": "edb567fc0dcb3934d4561816726844b9e4fba097a0170d978128f7e40467351b",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 54,
+      "path": "src/app/en/account/page.tsx",
+      "sha256": "2d8249ca9786cac9b7628c8fbe7840f01eb7de516f71f579727b255bd32e693c",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 4470,
+      "path": "src/app/globals.css",
+      "sha256": "6e1acbf4bd5ac495a655c6733af6df61a580237326d204ab4d0a98fd2244cd9e",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 192,
+      "path": "src/app/layout.tsx",
+      "sha256": "b5056e90516bd5c1bc6fd038699eda83c6cba8b23bc944d926ec009235d0b386",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 3792,
+      "path": "src/components/aws-account/AccountEntry.tsx",
+      "sha256": "ec6bb7a3c6f3633ef0e88e1c1c8dcba7150ed218905c2d33f20170f2a998fb91",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 17707,
+      "path": "src/components/aws-account/account-access-messages.ts",
+      "sha256": "196527fcbce918d054e5dbb6c977deb04e13aaf326b373d9b5ee0af08036478a",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 29861,
+      "path": "src/components/aws-account/clubs-member-account.module.css",
+      "sha256": "48b721ff2dcc499d93c867846d95583f193db8cad504a9e3ae7ffd3ddb9f1825",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 3813,
+      "path": "src/components/aws-account/clubs-public-design-tokens.module.css",
+      "sha256": "6afcc3191064339c5fa11e8960901feeaafe97cd1eb2da2c78c3f2628cb58ed2",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 11852,
+      "path": "src/components/crays-franchise/club-public/clubs-contact-page.tsx",
+      "sha256": "a665c7cd98f3dc5eb2343deb4a7bb4586b717abf08e43f25bc0246665c093040",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 11453,
+      "path": "src/components/crays-franchise/club-public/clubs-privacy-policy-page.module.css",
+      "sha256": "a58d24c8e586e3d64d5a1217ba9ae8c51f8ec754c8d889380028596bf22ce5be",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 6225,
+      "path": "src/components/crays-franchise/club-public/clubs-privacy-policy-page.tsx",
+      "sha256": "ba8c0c3b46d60ba81f35c59005680bf9f22f26477d6e5018b6da6087f27e87e1",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 281,
+      "path": "src/components/crays-franchise/club-public/clubs-public-shell.tsx",
+      "sha256": "f19e9010bb7bf697509f9fd5359a7b00e6330e26a5de5861195af63dd2865ed1",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 39849,
+      "path": "src/components/crays-franchise/club-public/contact-copy.ts",
+      "sha256": "5cc6bbd0e70e368dacc5b5ebaad85ab8694e968833fa281ce980a61e84557d0d",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 9972,
+      "path": "src/components/crays-franchise/club-public/contact-screen-one.module.css",
+      "sha256": "89e9714103b1cdaedf3e1b691095d4330edd47aeb287f67bca31b800e480d898",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 8897,
+      "path": "src/components/crays-franchise/club-public/data-protection-page.module.css",
+      "sha256": "499f4bdee8ccfb7b3a04ca6d12cc7e969f89a7af8b88ba8ecc8655dbbea60718",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 6362,
+      "path": "src/components/crays-franchise/club-public/data-protection-page.tsx",
+      "sha256": "386f17888852c038c2fab874d3edc175d9f130942abb6898447e3847f151b8c6",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 95077,
+      "path": "src/components/crays-franchise/club-public/families-copy.ts",
+      "sha256": "6c8bb384a68eed3ccce339d016f39b2dd0854e534f50b7af4bd40ad0d91c2915",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 13269,
+      "path": "src/components/crays-franchise/club-public/imprint-page.module.css",
+      "sha256": "6c5e788c490c230662256c3d0a8d45b3ed2844d7646761d5091d75b636e2f6ca",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 4824,
+      "path": "src/components/crays-franchise/club-public/imprint-page.tsx",
+      "sha256": "ac3e48da67365fbea809f9e23f5bcf9e52a4b0bec40d2322419f717439bcb778",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 109748,
+      "path": "src/components/crays-franchise/club-public/legal-copy-v1.ts",
+      "sha256": "19ac810c925c3a7f796b5f5ca95755fb1004c475ba032695b5f1bbc4c655ec37",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 13059,
+      "path": "src/components/crays-franchise/club-public/legal-family-layout.module.css",
+      "sha256": "1aa03254b87576bdcab313c5150a2b85d6a6bf90b7cd9a2131f070bc810acb28",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 2072,
+      "path": "src/components/crays-franchise/club-public/legal-family-layout.tsx",
+      "sha256": "84d7ac258713ccc21396a39a83037ddf20d82368019d659e07a5558c38939745",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 95469,
+      "path": "src/components/crays-franchise/club-public/legal-localized.generated.json",
+      "sha256": "0438cb4b2a26c5f138bab6ce6e06a5c9b5aec565adbae24ee3565f6cf3dc98c5",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 9119,
+      "path": "src/components/crays-franchise/club-public/legal-page.module.css",
+      "sha256": "d748acd2103e5627123f323a92de6a718347eaa7c82e9ce398e6ee6a5077d2c8",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 2394,
+      "path": "src/components/crays-franchise/club-public/legal-page.tsx",
+      "sha256": "fdce2aabcb5b58c5dd7a0039990bee328796987e166d9191d614591956d83ca0",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 11129,
+      "path": "src/components/crays-franchise/club-public/legal/terms-and-conditions-page.module.css",
+      "sha256": "5f08dad657c2c1874f38057b0189519e3b8ff7ea785168b3300e009f1f276e6f",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 4069,
+      "path": "src/components/crays-franchise/club-public/legal/terms-and-conditions-page.tsx",
+      "sha256": "4c67b1356b49c8df81fcf51fb5012b7b981b906d6c696a994af4e3f8bbcb838b",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 3800,
+      "path": "src/components/crays-franchise/franchise-footer.module.css",
+      "sha256": "63563f18ebb9732b8cb67b568df9a99e9e1d50898fd21e36ea9a417c58d0b171",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 3001,
+      "path": "src/components/crays-franchise/franchise-footer.tsx",
+      "sha256": "7d2c55f943b2ecb804b9ddad9c6544403aea12be845d832b287cbd386ed93474",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 4672,
+      "path": "src/components/crays-franchise/franchise-fullscreen-menu.module.css",
+      "sha256": "bbac1bee87bd9b8ab051506f88ed891977dac5004b9fb2db309f9251707d531c",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 6066,
+      "path": "src/components/crays-franchise/franchise-fullscreen-menu.tsx",
+      "sha256": "9d50c26df04fde6f625d3e186c46e670c82907766c06ea46dbc5e942ecedbcee",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 1726,
+      "path": "src/components/crays-franchise/franchise-header-menu-button.tsx",
+      "sha256": "4a311c2265d5b0aa6db129758337f343d7316c2db318023dfe5ea1c59a377895",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 3610,
+      "path": "src/components/crays-franchise/franchise-header.module.css",
+      "sha256": "e42fdb73caa412d39839961956a67e2a479436e443a037214c9a137ed182cbac",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 1842,
+      "path": "src/components/crays-franchise/franchise-header.tsx",
+      "sha256": "403b094fcc6c6bf9e50560d3b92d6698786dd8d0a3e58aa2c8ff3191cdbf6e23",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 3243,
+      "path": "src/components/crays-franchise/franchise-menu-content.module.css",
+      "sha256": "58bb633553643811c6d0d365aa2922d851536124e17a008ec8def31924607705",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 5181,
+      "path": "src/components/crays-franchise/franchise-menu-content.tsx",
+      "sha256": "84f0728c0f152ab37cbff66a3f54ce568d15620ec6f52140a27481d96357df09",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 1264,
+      "path": "src/components/crays-franchise/franchise-shell.module.css",
+      "sha256": "8aff241f9f2f9f8f3712dda13ae5c0e7215b41ad28d599f96f8b757b60149fcc",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 3040,
+      "path": "src/components/crays-franchise/franchise-shell.tsx",
+      "sha256": "5ec654845d59ceba95fe5f716d413e94baeac78d7b22d161f9a0ceb3d766ed0f",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 45889,
+      "path": "src/components/crays-franchise/franchise-site-interactive.tsx",
+      "sha256": "016f35b5e838dd914181f6967ffd90436a6378fb99a5d2c9fb50ff5a5d55bfa5",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 287145,
+      "path": "src/components/crays-franchise/franchise-site.module.css",
+      "sha256": "6951e7fd9164295216d2f95a769a309ae13d66497df196fab47070e64e4d9234",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 108317,
+      "path": "src/components/crays-franchise/franchise-site.tsx",
+      "sha256": "92b87a20bbe7d34f1716eb1d4326bc4280fd6f3b86d2892990759bea111cc60f",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 1600,
+      "path": "src/components/crays-franchise/pro-extra-pages.tsx",
+      "sha256": "f4bb270db94c1df21e42c502026e8c1a96959e08a7b485a6f810e5ca915ff6be",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 496,
+      "path": "src/components/crays-franchise/pro-operating-entity.ts",
+      "sha256": "0415b21b6862b53b4b313b7164746abd524a2c69854d74fc32de7b017aaec149",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 8373,
+      "path": "src/lib/crays-pro-public-metadata.ts",
+      "sha256": "fae36bf27c0c4949ede284fe8cf4b6bd0a1a3dcf9a253b4a13688614d9e29623",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 777,
+      "path": "tsconfig.json",
+      "sha256": "bdfbf6376aeaa1aec4018e035039b91083f63c19130d7551c8385ee4ec834c78",
+      "sourceRole": "qualified-tracked-source"
+    },
+    {
+      "bytes": 4230,
+      "path": "public/favicon.svg",
+      "sha256": "b30706f183711d1f5ef2906dda0c00a7e8e80ae38ba36a0ba1476cda0e86a7c6",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 4230,
+      "path": "public/crays-mark.svg",
+      "sha256": "b30706f183711d1f5ef2906dda0c00a7e8e80ae38ba36a0ba1476cda0e86a7c6",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 390,
+      "path": "public/site.webmanifest",
+      "sha256": "276cc249679a5ce91df8847791f91b06ebd621b06dcf8ee699f90b232365cbf3",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 9661,
+      "path": "public/crays-logo.svg",
+      "sha256": "9ce36962bc2c235c4b33496161778409c81850e5cffa43568c8c49b709951440",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 603,
+      "path": "public/__crays-pro/footer-icons/discord.svg",
+      "sha256": "d7d6441195992d10508b8229cd4fd59c690d6d301bb5bea7a81133f02fa58143",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 17213,
+      "path": "public/__crays-pro/footer-icons/reddit.svg",
+      "sha256": "eaf13872178bc72eae60a9357c6695e788b0429702be7be92828b25cc8ef8658",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 4159,
+      "path": "public/__crays-pro/footer-icons/tiktok.svg",
+      "sha256": "a3fa3e7da01c90af5c4c70eb6fba96d6d1acfb2378431471b14d80d38b5045fa",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 20272,
+      "path": "public/__crays-pro/footer-icons/opencollective.svg",
+      "sha256": "05cca00d588fbc6d70716e163a458e2806bfd441d68cf152171d24d609cfa049",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 21332,
+      "path": "public/__crays-pro/footer-icons/x.svg",
+      "sha256": "33ca64c3675f3e7ffaa07d063573480e36c9732666a7500a1241864280665532",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 17542,
+      "path": "public/__crays-pro/footer-icons/telegram.svg",
+      "sha256": "cde35edea7f8b5a6f45d8e26bd3ca0f8116db1d621c2bf27918b0d9c698d41d3",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 16965,
+      "path": "public/__crays-pro/footer-icons/github.svg",
+      "sha256": "07d11d2a07bca71e1b80f87b6683471af1e8b22c9454cb9c090505b76f471c78",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 7491,
+      "path": "public/__crays-pro/footer-icons/youtube.svg",
+      "sha256": "1ff6e840e70209017ba5f3d639426df4a1f3edb5c201eff07390baa53f83193a",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 1570,
+      "path": "public/__crays-pro/footer-icons/linkedin.svg",
+      "sha256": "f424edd0058e539297c8effefa728acf9432d15e5d2a3f3a5a9a464e5ec73266",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 6566,
+      "path": "public/__crays-pro/footer-icons/instagram.svg",
+      "sha256": "0cc86a86b1c68ba9d7f6b80561e13b83c524a69f62e1ff4627cb1a1357663f1a",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 578,
+      "path": "public/assets/icon-member.svg",
+      "sha256": "bb0beeec41271ebecb72b0b2beeab29150cb14ec4d05be9142895cac1bfb6243",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 4230,
+      "path": "public/assets/crays-mark.svg",
+      "sha256": "b30706f183711d1f5ef2906dda0c00a7e8e80ae38ba36a0ba1476cda0e86a7c6",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 9664,
+      "path": "public/assets/crays-logo-white.svg",
+      "sha256": "f28a537ea28fc34aec7247652788f083ad2398c9c7c6f462acb5f578c6f24208",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 1255,
+      "path": "public/assets/icon-login.svg",
+      "sha256": "a77f78d650002a7151a07cf1f095a4f28bbc36215a8ed585563cfc79834b8cb8",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 9697,
+      "path": "public/assets/images/crays-franchise/crays-logo-light.svg",
+      "sha256": "401259a087b01852bd61ce5b7d2bda2564e80f2af596d47e062a38315f6e51c4",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 13210,
+      "path": "public/assets/images/crays-pro-20261012/ASSET_MANIFEST.json",
+      "sha256": "fdcbe6766be98a1cf775f38af06d246c8f44faaa6f71bb31dae026a0d352413d",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 603,
+      "path": "public/assets/footer-icons/discord.svg",
+      "sha256": "d7d6441195992d10508b8229cd4fd59c690d6d301bb5bea7a81133f02fa58143",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 17213,
+      "path": "public/assets/footer-icons/reddit.svg",
+      "sha256": "eaf13872178bc72eae60a9357c6695e788b0429702be7be92828b25cc8ef8658",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 707,
+      "path": "public/assets/footer-icons/tiktok.svg",
+      "sha256": "6f54ac8d325faacea8935bdc44cbed60206a6b408641799e5fea1cba7c1a0af7",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 20272,
+      "path": "public/assets/footer-icons/opencollective.svg",
+      "sha256": "05cca00d588fbc6d70716e163a458e2806bfd441d68cf152171d24d609cfa049",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 299,
+      "path": "public/assets/footer-icons/x.svg",
+      "sha256": "693e68863eceb8dc9f72e2acd386ab9c20a10858dab2c076212f7084cb7a32fe",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 742,
+      "path": "public/assets/footer-icons/telegram.svg",
+      "sha256": "147fd8f8923e7e5f463fe98c0eb9913bead6b2ae59935728cda141002ec8a7c9",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 16965,
+      "path": "public/assets/footer-icons/github.svg",
+      "sha256": "07d11d2a07bca71e1b80f87b6683471af1e8b22c9454cb9c090505b76f471c78",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 1216,
+      "path": "public/assets/footer-icons/whatsapp.svg",
+      "sha256": "8fb209a53a61618c3483594b3e070481a35575d6aaecbe00a6fe386670c8fb1c",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 459,
+      "path": "public/assets/footer-icons/youtube.svg",
+      "sha256": "5038808acbbc4e6edda16cbeb1cc6dec80e4e4ee4e227e039c41229fa222aa8c",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 610,
+      "path": "public/assets/footer-icons/linkedin.svg",
+      "sha256": "2687ac468d96bd03e748dc8646ef6465cb4cc7f34b96e1d0bc86fcb3dd79121a",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 4230,
+      "path": "public/assets/footer-icons/crays.svg",
+      "sha256": "b30706f183711d1f5ef2906dda0c00a7e8e80ae38ba36a0ba1476cda0e86a7c6",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 2101,
+      "path": "public/assets/footer-icons/instagram.svg",
+      "sha256": "f53af2d1fc5292ba1433b5c1faf50005ce6a997fa302d1816989929f379a59dc",
+      "sourceRole": "original-public-source"
+    },
+    {
+      "bytes": 9660,
+      "path": "public/__crays-account/v1/crays-logo-dark.svg",
+      "sha256": "fd98a2e6258b19a6c636f81e94e01d983aa547ad467239782f7d98853b5c180b",
+      "sourceRole": "original-public-source"
+    }
+  ],
+  "sourcePacket": {
+    "key": "migration-work/20261108/github/website-source02/pro/ORIGINAL_HISTORY_AND_SOURCE_PACKET.json",
+    "versionId": "ocZvAJ9A.OgCEATaAQQeZmVKmnWLRp7o",
+    "sha256": "4fe030a248808bf878cd7e0e6172a7757f58f94a0a6bb7f580612e798f6b12a1"
+  },
+  "recordedAWSVersion": {
+    "recordedContainerId": "71fe65eaed9ecd37194ce77c8270a0842f36ee36f8b9b6dd91a30eb6be25d2ba",
+    "recordedBuildId": "fB6zGg5NoT9z0Muauir5G",
+    "recordedImageFromVersionedPins": "sha256:752ea8a2f758c34002a0461bd9f1cee4f9a3c36d48494586f60ffce1fc708e0e",
+    "recordedCompiledReleaseRoot": "/srv/crays/releases/pro-mobile-login-20261108-01",
+    "recordedBaseReleaseRoot": "/srv/crays/releases/pro-account-next-20261106-01",
+    "pinnedCompiledManifestSHA256": "a6e8366b72cc4a4806c70096487156c5d39c8be7f12c67ee154f3c4c36ba0db2",
+    "historicalSourceAuthorityReference": {
+      "immutableRuntimeReleaseMounts": [
+        {
+          "source": "/srv/crays/releases/pro-account-next-20261106-01",
+          "destination": "/app",
+          "readOnly": true
+        }
+      ],
+      "selectedSourceCandidate": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/pro-nextjs-20261106-01",
+      "sourceAuthorityEvidence": "PRO_LIVE_SOURCE_PROVENANCE_CURRENT.json",
+      "currentMountAssertion": false
+    },
+    "versionedCompiledTransfer": {
+      "schema": "crays.versioned-transfer.v1",
+      "bucket": "crays-acceptance-backups-391674093840-eu-central-2",
+      "key": "restore/approved/public-frontends/20261108/pro-mobile-login-df0c3812e4773607af1a039209cb8c02c8b2a80119bca734ee168d1ce2ec0b5e.tar.gz",
+      "versionId": "42dyJhwcW7YUnlafpd.49TiUQDwdU2x4",
+      "sha256": "df0c3812e4773607af1a039209cb8c02c8b2a80119bca734ee168d1ce2ec0b5e",
+      "bytes": 810177
+    },
+    "latestReceiptAsOf": {
+      "coverageAtUTC": "2026-11-08T13:57:35.815535+00:00",
+      "installationReceiptHasEmbeddedTimestamp": false,
+      "freshRuntimeVerified": false,
+      "targetedAcceptanceAtUTC": "2026-11-08T10:16:16.096504+00:00"
+    }
+  },
+  "recordedVersionAuthority": "VERSION24_PUBLIC_RECEIPTS_AS_OF_2026-11-08T19:22:47.160717+00:00_NOT_FRESH_RUNTIME_INSPECTION",
+  "recordedSourceAppendixSHA256": "ca14a118d6ef3eb29a6ed13279fedaec70a084e3a118069bc14cc64109420fbc",
+  "originalNoticeFiles": [],
+  "packageMetadata": [
+    {
+      "path": "package.json",
+      "name": "crays-pro-aws-public-candidate",
+      "version": "0.0.0",
+      "licenseDeclaration": null
+    }
+  ],
+  "versionControlOnlyChange": {
+    "path": ".gitignore",
+    "originalSHA256": "7890a952c4cba1ced1c392de2f1ff4da6869063d02fcb6cb2e34cfb6bb86f73f",
+    "originalRetainedAtCommit": "96a2166199f0df07924b85c64fa831c9a87ca132",
+    "newPolicy": "Track public website source while excluding generated dependencies/builds and protected environment/key files"
+  },
+  "sourceExecuted": false,
+  "fullWebsiteMediaDependencyLicenseAndEarlierHistoryClosure": false,
+  "originalDeltaPreparationEvidence": {
+    "deltaPins": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/parallel-provider-migration-20261108/websites/pro-mobile-login-fix-20261108-01/SOURCE_DELTA_PINS.json",
+    "sha256": "53343c7144191a07e9dde0d836012013ea422735077356a6e432bc4674e214df",
+    "files": [
+      {
+        "path": "src/components/crays-franchise/franchise-fullscreen-menu.tsx",
+        "baselineSHA256": "3e0c4df069f1fc31649b12cae058e2a64c42be7427eb36bcad43831dcc9c4f24",
+        "candidateSHA256": "9d50c26df04fde6f625d3e186c46e670c82907766c06ea46dbc5e942ecedbcee"
+      },
+      {
+        "path": "src/components/crays-franchise/franchise-fullscreen-menu.module.css",
+        "baselineSHA256": "b28d6724ca7f9bdd613f901e875c14792016a4248f3505f839e387eda1886148",
+        "candidateSHA256": "bbac1bee87bd9b8ab051506f88ed891977dac5004b9fb2db309f9251707d531c"
+      }
+    ],
+    "legalBaseline": [
+      {
+        "path": "src/components/crays-franchise/pro-operating-entity.ts",
+        "sha256": "0415b21b6862b53b4b313b7164746abd524a2c69854d74fc32de7b017aaec149"
+      },
+      {
+        "path": "src/components/crays-franchise/club-public/imprint-page.tsx",
+        "sha256": "ac3e48da67365fbea809f9e23f5bcf9e52a4b0bec40d2322419f717439bcb778"
+      },
+      {
+        "path": "src/components/crays-franchise/club-public/legal-copy-v1.ts",
+        "sha256": "19ac810c925c3a7f796b5f5ca95755fb1004c475ba032695b5f1bbc4c655ec37"
+      },
+      {
+        "path": "src/components/crays-franchise/club-public/clubs-contact-page.tsx",
+        "sha256": "a665c7cd98f3dc5eb2343deb4a7bb4586b717abf08e43f25bc0246665c093040"
+      },
+      {
+        "path": "src/components/crays-franchise/club-public/legal-page.tsx",
+        "sha256": "fdce2aabcb5b58c5dd7a0039990bee328796987e166d9191d614591956d83ca0"
+      },
+      {
+        "path": "src/lib/crays-pro-public-metadata.ts",
+        "sha256": "fae36bf27c0c4949ede284fe8cf4b6bd0a1a3dcf9a253b4a13688614d9e29623"
+      }
+    ],
+    "legalOverlayManifestSHA256": "293392e871d396c650371a5c320d3286f5281aace10bc6b501d0c1e50b1cee54"
+  },
+  "historicalEvidenceInterpretation": "The original delta-preparation record is historical; its preparation/adoption flags are not substituted for the separately recorded later AWS version and observation scope."
+}

@@ -1,0 +1,71 @@
+{
+  "bindings": [
+    {
+      "path": "public/__crays-pro",
+      "target": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/pro-nextjs-20261106-01/public/__crays-pro",
+      "tracked": false
+    },
+    {
+      "path": "public/assets",
+      "target": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/pro-nextjs-20261106-01/public/assets",
+      "tracked": false
+    },
+    {
+      "path": "public/__crays-account",
+      "target": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/pro-nextjs-20261106-01/public/__crays-account",
+      "tracked": false
+    },
+    {
+      "path": "public/__crays-clubs",
+      "target": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/pro-nextjs-20261106-01/public/__crays-clubs",
+      "tracked": false
+    },
+    {
+      "path": "public/favicon.ico",
+      "target": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/pro-nextjs-20261106-01/public/favicon.ico",
+      "tracked": false
+    },
+    {
+      "path": "public/favicon.svg",
+      "target": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/pro-nextjs-20261106-01/public/favicon.svg",
+      "tracked": false
+    },
+    {
+      "path": "public/crays-mark.svg",
+      "target": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/pro-nextjs-20261106-01/public/crays-mark.svg",
+      "tracked": false
+    },
+    {
+      "path": "public/favicon.png",
+      "target": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/pro-nextjs-20261106-01/public/favicon.png",
+      "tracked": false
+    },
+    {
+      "path": "public/site.webmanifest",
+      "target": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/pro-nextjs-20261106-01/public/site.webmanifest",
+      "tracked": false
+    },
+    {
+      "path": "public/crays-logo.svg",
+      "target": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/pro-nextjs-20261106-01/public/crays-logo.svg",
+      "tracked": false
+    },
+    {
+      "path": "public/icon.png",
+      "target": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/pro-nextjs-20261106-01/public/icon.png",
+      "tracked": false
+    },
+    {
+      "path": "public/apple-icon.png",
+      "target": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/pro-nextjs-20261106-01/public/apple-icon.png",
+      "tracked": false
+    },
+    {
+      "path": "node_modules",
+      "target": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/pro-nextjs-20261106-01/node_modules",
+      "scope": "Original local alias observed read-only; installed body/lock closure separate"
+    }
+  ],
+  "hostSpecificAliasesAreNotPortableRecoveryInputs": true,
+  "publicSourceBodiesPreservedAtLogicalPaths": true
+}

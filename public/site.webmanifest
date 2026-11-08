@@ -1,0 +1,17 @@
+{
+  "name": "CRAYS Gym Munich",
+  "short_name": "CRAYS Gym",
+  "description": "Premium fitness, day passes, memberships and community events in Munich.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#073a56",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

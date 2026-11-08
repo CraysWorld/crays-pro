@@ -1,0 +1,355 @@
+{
+  "scope": "Remaining binary asset paths/bytes in the known original public tree; no content-hash/rights acceptance",
+  "files": [
+    {
+      "bytes": 17148,
+      "path": "public/favicon.ico"
+    },
+    {
+      "bytes": 17126,
+      "path": "public/favicon.png"
+    },
+    {
+      "bytes": 91650,
+      "path": "public/icon.png"
+    },
+    {
+      "bytes": 50037,
+      "path": "public/apple-icon.png"
+    },
+    {
+      "bytes": 33182,
+      "path": "public/__crays-pro/footer-icons/nostr.webp"
+    },
+    {
+      "bytes": 23284,
+      "path": "public/assets/fonts/avenir-black.woff2"
+    },
+    {
+      "bytes": 10736,
+      "path": "public/assets/fonts/fit711-poppins-700.woff2"
+    },
+    {
+      "bytes": 47724,
+      "path": "public/assets/fonts/bodoni-moda-italic-700.ttf"
+    },
+    {
+      "bytes": 23632,
+      "path": "public/assets/fonts/fit711-avenir-medium.woff2"
+    },
+    {
+      "bytes": 8000,
+      "path": "public/assets/fonts/fit711-poppins-600.woff2"
+    },
+    {
+      "bytes": 24284,
+      "path": "public/assets/fonts/fit711-avenir-light-oblique.woff2"
+    },
+    {
+      "bytes": 34040,
+      "path": "public/assets/fonts/fit711-avenir-heavy.woff2"
+    },
+    {
+      "bytes": 23284,
+      "path": "public/assets/fonts/fit711-avenir-black.woff2"
+    },
+    {
+      "bytes": 10832,
+      "path": "public/assets/fonts/fit711-poppins-regular.woff2"
+    },
+    {
+      "bytes": 10736,
+      "path": "public/assets/fonts/poppins-700.woff2"
+    },
+    {
+      "bytes": 23632,
+      "path": "public/assets/fonts/avenir-medium.woff2"
+    },
+    {
+      "bytes": 23424,
+      "path": "public/assets/fonts/fit711-avenir-book.woff2"
+    },
+    {
+      "bytes": 8000,
+      "path": "public/assets/fonts/poppins-600.woff2"
+    },
+    {
+      "bytes": 23424,
+      "path": "public/assets/fonts/avenir-book.woff2"
+    },
+    {
+      "bytes": 34040,
+      "path": "public/assets/fonts/avenir-heavy.woff2"
+    },
+    {
+      "bytes": 10832,
+      "path": "public/assets/fonts/poppins-regular.woff2"
+    },
+    {
+      "bytes": 267887,
+      "path": "public/assets/images/franchise-deal-room-first-call.jpg"
+    },
+    {
+      "bytes": 1794332,
+      "path": "public/assets/images/candidate-community-operator-hero.png"
+    },
+    {
+      "bytes": 230114,
+      "path": "public/assets/images/real-estate-review-lifestyle.jpeg"
+    },
+    {
+      "bytes": 313627,
+      "path": "public/assets/images/deals-opening-construction-pexels-15794759.jpg"
+    },
+    {
+      "bytes": 130484,
+      "path": "public/assets/images/franchise-crays-owner-portrait.webp"
+    },
+    {
+      "bytes": 230114,
+      "path": "public/assets/images/bank-credit-team-lifestyle.jpeg"
+    },
+    {
+      "bytes": 1956788,
+      "path": "public/assets/images/crays-pro-portal-community-generated.png"
+    },
+    {
+      "bytes": 219417,
+      "path": "public/assets/images/deals-place-commercial-building-pexels-7541122.jpg"
+    },
+    {
+      "bytes": 164850,
+      "path": "public/assets/images/franchise-footer-gym-partner.webp"
+    },
+    {
+      "bytes": 66852,
+      "path": "public/assets/images/franchise-footer-venue.webp"
+    },
+    {
+      "bytes": 253124,
+      "path": "public/assets/images/deals-opening-blueprints-pexels-29299826.jpg"
+    },
+    {
+      "bytes": 418365,
+      "path": "public/assets/images/franchise-cycling-room.jpg"
+    },
+    {
+      "bytes": 1425922,
+      "path": "public/assets/images/crays-franchise/crays-evidence-next-route-user.jpg"
+    },
+    {
+      "bytes": 1955327,
+      "path": "public/assets/images/crays-franchise/crays-pro-hero-lounge-user.jpg"
+    },
+    {
+      "bytes": 418365,
+      "path": "public/assets/images/crays-franchise/stock/guest-relationship-cycling.jpg"
+    },
+    {
+      "bytes": 16769475,
+      "path": "public/assets/images/crays-franchise/stock/operating-opening-collaboration.png"
+    },
+    {
+      "bytes": 230114,
+      "path": "public/assets/images/crays-franchise/stakeholders/candidate-working.jpeg"
+    },
+    {
+      "bytes": 6685572,
+      "path": "public/assets/images/crays-franchise/concepts/crays-coffee-customer.jpg"
+    },
+    {
+      "bytes": 762138,
+      "path": "public/assets/images/crays-franchise/concepts/crays-coffee-coworking.jpg"
+    },
+    {
+      "bytes": 60512,
+      "path": "public/assets/images/crays-franchise/concepts/crays-gym-performance.jpg"
+    },
+    {
+      "bytes": 4129541,
+      "path": "public/assets/images/crays-franchise/concepts/crays-retail-customer.jpg"
+    },
+    {
+      "bytes": 77596,
+      "path": "public/assets/images/crays-pro-20261012/retained-pool.webp"
+    },
+    {
+      "bytes": 347824,
+      "path": "public/assets/images/crays-pro-20261012/fit-2.webp"
+    },
+    {
+      "bytes": 177976,
+      "path": "public/assets/images/crays-pro-20261012/concept-gym.webp"
+    },
+    {
+      "bytes": 214838,
+      "path": "public/assets/images/crays-pro-20261012/fit-1.webp"
+    },
+    {
+      "bytes": 254620,
+      "path": "public/assets/images/crays-pro-20261012/property-1.webp"
+    },
+    {
+      "bytes": 108860,
+      "path": "public/assets/images/crays-pro-20261012/operating-0.webp"
+    },
+    {
+      "bytes": 236002,
+      "path": "public/assets/images/crays-pro-20261012/fit-4.webp"
+    },
+    {
+      "bytes": 2512666,
+      "path": "public/assets/images/crays-pro-20261012/coming-soon-community.png"
+    },
+    {
+      "bytes": 97160,
+      "path": "public/assets/images/crays-pro-20261012/workday-4.webp"
+    },
+    {
+      "bytes": 92596,
+      "path": "public/assets/images/crays-pro-20261012/investor.webp"
+    },
+    {
+      "bytes": 393556,
+      "path": "public/assets/images/crays-pro-20261012/property-0.webp"
+    },
+    {
+      "bytes": 73174,
+      "path": "public/assets/images/crays-pro-20261012/concept-coffee.webp"
+    },
+    {
+      "bytes": 265778,
+      "path": "public/assets/images/crays-pro-20261012/prepared-3.webp"
+    },
+    {
+      "bytes": 117258,
+      "path": "public/assets/images/crays-pro-20261012/foundation-2.webp"
+    },
+    {
+      "bytes": 195596,
+      "path": "public/assets/images/crays-pro-20261012/stakeholder-3.webp"
+    },
+    {
+      "bytes": 79598,
+      "path": "public/assets/images/crays-pro-20261012/workday-2.webp"
+    },
+    {
+      "bytes": 278706,
+      "path": "public/assets/images/crays-pro-20261012/concept-retail.webp"
+    },
+    {
+      "bytes": 111080,
+      "path": "public/assets/images/crays-pro-20261012/funding.webp"
+    },
+    {
+      "bytes": 133972,
+      "path": "public/assets/images/crays-pro-20261012/foundation-1.webp"
+    },
+    {
+      "bytes": 132638,
+      "path": "public/assets/images/crays-pro-20261012/workday-3.webp"
+    },
+    {
+      "bytes": 80116,
+      "path": "public/assets/images/crays-pro-20261012/foundation-3.webp"
+    },
+    {
+      "bytes": 352074,
+      "path": "public/assets/images/crays-pro-20261012/fit-0.webp"
+    },
+    {
+      "bytes": 131490,
+      "path": "public/assets/images/crays-pro-20261012/operating-2.webp"
+    },
+    {
+      "bytes": 412232,
+      "path": "public/assets/images/crays-pro-20261012/stakeholder-0.webp"
+    },
+    {
+      "bytes": 221734,
+      "path": "public/assets/images/crays-pro-20261012/stakeholder-2.webp"
+    },
+    {
+      "bytes": 177006,
+      "path": "public/assets/images/crays-pro-20261012/stakeholder-1.webp"
+    },
+    {
+      "bytes": 481232,
+      "path": "public/assets/images/crays-pro-20261012/property-2.webp"
+    },
+    {
+      "bytes": 1783922,
+      "path": "public/assets/images/crays-pro-20261012/social-crays-pro-20261012.png"
+    },
+    {
+      "bytes": 120438,
+      "path": "public/assets/images/crays-pro-20261012/prepared-5.webp"
+    },
+    {
+      "bytes": 141262,
+      "path": "public/assets/images/crays-pro-20261012/foundation-0.webp"
+    },
+    {
+      "bytes": 109996,
+      "path": "public/assets/images/crays-pro-20261012/workday-1.webp"
+    },
+    {
+      "bytes": 407984,
+      "path": "public/assets/images/crays-pro-20261012/concept-clubs.webp"
+    },
+    {
+      "bytes": 274794,
+      "path": "public/assets/images/crays-pro-20261012/fit-3.webp"
+    },
+    {
+      "bytes": 340040,
+      "path": "public/assets/images/crays-pro-20261012/owner.webp"
+    },
+    {
+      "bytes": 148586,
+      "path": "public/assets/images/crays-pro-20261012/workday-0.webp"
+    },
+    {
+      "bytes": 66082,
+      "path": "public/assets/images/crays-pro-20261012/concept-gym-owner.webp"
+    },
+    {
+      "bytes": 142046,
+      "path": "public/assets/images/crays-pro-20261012/prepared-4.webp"
+    },
+    {
+      "bytes": 195750,
+      "path": "public/assets/images/crays-pro-20261012/operating-1.webp"
+    },
+    {
+      "bytes": 1916715,
+      "path": "public/assets/crays-store/auto-checkout-store.png"
+    },
+    {
+      "bytes": 33182,
+      "path": "public/assets/footer-icons/nostr.webp"
+    },
+    {
+      "bytes": 130237,
+      "path": "public/__crays-account/v1/forest-city-marina.jpg"
+    },
+    {
+      "bytes": 23632,
+      "path": "public/__crays-account/v1/fonts/avenir-medium.woff2"
+    },
+    {
+      "bytes": 23424,
+      "path": "public/__crays-account/v1/fonts/avenir-book.woff2"
+    },
+    {
+      "bytes": 34040,
+      "path": "public/__crays-account/v1/fonts/avenir-heavy.woff2"
+    },
+    {
+      "bytes": 2115916,
+      "path": "public/__crays-clubs/contact/design-1/contact-hero-forest-city-v1.png"
+    }
+  ],
+  "allBodiesInThisRepository": false,
+  "fullRecoveryAndLicenseClosure": false
+}

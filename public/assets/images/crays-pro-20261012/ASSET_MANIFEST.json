@@ -1,0 +1,309 @@
+[
+  {
+    "name": "foundation-0",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\d44f7fe6-ab85-40b1-b680-a347c4cca32d.png",
+    "sourceSha256": "cfd993d2fb45d7f2949fbc2ca90ed065358ee3416595432a0cd5514377923d50",
+    "publicPath": "/assets/images/crays-pro-20261012/foundation-0.webp",
+    "size": [
+      1288,
+      1221
+    ]
+  },
+  {
+    "name": "foundation-1",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\6dea988c-b602-4384-978f-90367023ca05.png",
+    "sourceSha256": "f79a653eada08360bb3c0124c141606fb654d1600efba46d496ba8de1fd7fde2",
+    "publicPath": "/assets/images/crays-pro-20261012/foundation-1.webp",
+    "size": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "foundation-2",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\7a8b544c-44fd-4701-ac7f-71b474d9e08c.png",
+    "sourceSha256": "db85636985066695aac9f202c18f2766c849365afc9795cd4533d377d943b889",
+    "publicPath": "/assets/images/crays-pro-20261012/foundation-2.webp",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "name": "foundation-3",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\188dbe2e-16df-429d-9252-e4776aa607c5.png",
+    "sourceSha256": "a667096610928f646592fd25ffd82dee91d6e9ae58054be002077f6fe472dfea",
+    "publicPath": "/assets/images/crays-pro-20261012/foundation-3.webp",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "name": "workday-0",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\5baf5c41-b5f9-49ae-8352-0cc41a7d0fad.png",
+    "sourceSha256": "7dbe10ffb283377790036201f1d35ddffb2ca4d3c58fd14f6fe62567752f3bf7",
+    "publicPath": "/assets/images/crays-pro-20261012/workday-0.webp",
+    "size": [
+      1536,
+      1024
+    ]
+  },
+  {
+    "name": "workday-1",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\38830736-8585-4bcb-a691-a3073fd1a892.png",
+    "sourceSha256": "a49bdad593a4ca02a2755cf8a07e53d45ed0c363bc07f93df8fcc2f0524f5c76",
+    "publicPath": "/assets/images/crays-pro-20261012/workday-1.webp",
+    "size": [
+      941,
+      1672
+    ]
+  },
+  {
+    "name": "workday-2",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\7dce0f88-f0c3-4cce-a7d5-cc4c338718ea.png",
+    "sourceSha256": "c6313ca1feb00eeb385d3fac78c3f823ad892ed8ac7c9d48d994efbc1668174d",
+    "publicPath": "/assets/images/crays-pro-20261012/workday-2.webp",
+    "size": [
+      1448,
+      1086
+    ]
+  },
+  {
+    "name": "workday-3",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\c8db8f03-0d15-4205-b5a2-81fb6c892415.png",
+    "sourceSha256": "f97297fbc756f91edffcbd47f80e83f8b8f2d4343b54688d448194056a185dc4",
+    "publicPath": "/assets/images/crays-pro-20261012/workday-3.webp",
+    "size": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "workday-4",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\af6a8a7b-e0f8-46b6-8e33-edd716ff86a8.png",
+    "sourceSha256": "8979ee31d319930007f58c13eee174626488f99d37cf17723bf78e1cf6c9f371",
+    "publicPath": "/assets/images/crays-pro-20261012/workday-4.webp",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "name": "property-0",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\bfc5fe14-550b-4e6e-a7e0-285208da23ea.png",
+    "sourceSha256": "86eeea0e604b53a5f09fa5e210dc482602661b592c7f67ce7db30552af6aaab1",
+    "publicPath": "/assets/images/crays-pro-20261012/property-0.webp",
+    "size": [
+      1448,
+      1086
+    ]
+  },
+  {
+    "name": "property-1",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\7fa193d1-60af-4e13-8689-ebc860b734d8.png",
+    "sourceSha256": "f735ddb22c2017b5aa366f2f97ca9d1b93a4836a4ebcd65bc726cc33d10084ec",
+    "publicPath": "/assets/images/crays-pro-20261012/property-1.webp",
+    "size": [
+      1536,
+      1024
+    ]
+  },
+  {
+    "name": "property-2",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\f53df50e-03d9-4ca0-9f53-6fba4134bbc6.png",
+    "sourceSha256": "0f1c5ade6f72f75e7ee077ab6ea98f7ac250ab64462bc02ce96cf14f72b49e9b",
+    "publicPath": "/assets/images/crays-pro-20261012/property-2.webp",
+    "size": [
+      1536,
+      1024
+    ]
+  },
+  {
+    "name": "owner",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\259ab981-e6e5-4873-94a0-4287b9c85c68.png",
+    "sourceSha256": "6757c3bfe29e77a9c393873beb8550d5d0f87f54370e6b1bc61029af9a10577e",
+    "publicPath": "/assets/images/crays-pro-20261012/owner.webp",
+    "size": [
+      1536,
+      1024
+    ]
+  },
+  {
+    "name": "investor",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\8679978a-d54f-4738-a1b3-b7552b8ce958.png",
+    "sourceSha256": "5e8e01d0bf395d8b7f8f6249584c3eda71f6fd881ac2cccd1dfc5ab65fa0dc31",
+    "publicPath": "/assets/images/crays-pro-20261012/investor.webp",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "name": "funding",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\5068bd3a-a37e-4b7b-ac0c-8d704f1cb57e.png",
+    "sourceSha256": "52a7a3abe40705a77bc8a856d77e66fa830481e42c845579343f238042c04e11",
+    "publicPath": "/assets/images/crays-pro-20261012/funding.webp",
+    "size": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "concept-coffee",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\0a0ecbde-e793-4c2f-a22c-d3a3e65e71b7.png",
+    "sourceSha256": "13d9e7101217409e08f4b0a412151ce379047e2398273bd73c56b8d2dee88199",
+    "publicPath": "/assets/images/crays-pro-20261012/concept-coffee.webp",
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "name": "concept-retail",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\028f88ea-9cb5-4d67-ad4a-0dd8e52b729e.png",
+    "sourceSha256": "0606c035088279fe8f9f5588af1feba6d9c7a1ca3fe89eb8eb1cec813367b9dd",
+    "publicPath": "/assets/images/crays-pro-20261012/concept-retail.webp",
+    "size": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "concept-gym",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\17ab5c56-36f8-40b8-87a2-162d2dc082aa.png",
+    "sourceSha256": "63147f735e57b327197c17bf4773dd3540506e5d060bea3c7b6ffad79d0a61c8",
+    "publicPath": "/assets/images/crays-pro-20261012/concept-gym.webp",
+    "size": [
+      1448,
+      1086
+    ]
+  },
+  {
+    "name": "concept-clubs",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\3e50a612-cdb4-4028-afc3-e7df9b414a6a.png",
+    "sourceSha256": "20f312e1ac8a3829346067353acc443fec2bae8caca2ce06ab977109fa8ccc44",
+    "publicPath": "/assets/images/crays-pro-20261012/concept-clubs.webp",
+    "size": [
+      1536,
+      1024
+    ]
+  },
+  {
+    "name": "stakeholder-0",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\b62a49d6-f2b7-4276-be79-b6c88ffbd601.png",
+    "sourceSha256": "46106240a4d327a879d09f76fef2605c96ef3030e2a84be41e7f3f8062544f71",
+    "publicPath": "/assets/images/crays-pro-20261012/stakeholder-0.webp",
+    "size": [
+      1744,
+      901
+    ]
+  },
+  {
+    "name": "stakeholder-1",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\23d1c276-4e2f-4de3-8dd6-ac45b3e37f30.png",
+    "sourceSha256": "4874dc64a59643037f82d21c9ab3249da4fdef44ab746c1a6485db8dd52d56fc",
+    "publicPath": "/assets/images/crays-pro-20261012/stakeholder-1.webp",
+    "size": [
+      1448,
+      1086
+    ]
+  },
+  {
+    "name": "stakeholder-2",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\fa6b3b14-63d2-4e05-86cf-28e3c3e02ca7.png",
+    "sourceSha256": "4d9287d6529e80202afb14660199495b7aa47718eb57fe4ac28b429bc126ec1e",
+    "publicPath": "/assets/images/crays-pro-20261012/stakeholder-2.webp",
+    "size": [
+      1659,
+      948
+    ]
+  },
+  {
+    "name": "stakeholder-3",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\e52079e0-adca-4600-a4cd-85340979effb.png",
+    "sourceSha256": "239d965c93e2a7c6610fbf8b0ab96387b7f73e9a17ba0e33250ee0216766d86f",
+    "publicPath": "/assets/images/crays-pro-20261012/stakeholder-3.webp",
+    "size": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "retained-pool",
+    "source": "C:\\Users\\34669\\AppData\\Local\\Temp\\codex-clipboard-06e1aff3-bda4-4b3f-be0f-9ca421a383f0.png",
+    "sourceSha256": "e1589e7b88f2d319ac9c4d151a2d7a2949a30e8709f6552253336c2e1b21d1c9",
+    "publicPath": "/assets/images/crays-pro-20261012/retained-pool.webp",
+    "size": [
+      640,
+      1128
+    ],
+    "ownerMandatory": true
+  },
+  {
+    "name": "operating-0",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\6bd7817a-8df7-40be-9579-f1172f1e1559.png",
+    "sourceSha256": "189025114c5079f8ae7e8481c811165a24299f32ee40e1a29ba567aaebd99594",
+    "publicPath": "/assets/images/crays-pro-20261012/operating-0.webp"
+  },
+  {
+    "name": "operating-1",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\8a6c3043-5867-42d3-b0b7-047b81a47ed4.png",
+    "sourceSha256": "d4f0e4ec643df13a725f62747541b8378ab82930bbb6b4171a785447bad5669a",
+    "publicPath": "/assets/images/crays-pro-20261012/operating-1.webp"
+  },
+  {
+    "name": "operating-2",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\56c931ea-a5c3-4d1e-98ee-eb3c3be45158.png",
+    "sourceSha256": "0c280fc58080e63d43189144a6ea252cb117059d95714bac6636d4f7fab96429",
+    "publicPath": "/assets/images/crays-pro-20261012/operating-2.webp"
+  },
+  {
+    "name": "fit-0",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\7eef846a-03cb-4229-8631-d3e939da51ed.png",
+    "sourceSha256": "e4ad398b81c9a7a6c57a495d0b21252026308a048fc1deb17594353d95e47aa6",
+    "publicPath": "/assets/images/crays-pro-20261012/fit-0.webp"
+  },
+  {
+    "name": "fit-1",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\db2be5f1-465f-4f03-8370-cfdgfsdhhj.png",
+    "sourceSha256": "a471b9e98e6efa08193f8ca50b59ec5f25a8c0826e3fcdfb3ce52d7d17ad241a",
+    "publicPath": "/assets/images/crays-pro-20261012/fit-1.webp"
+  },
+  {
+    "name": "fit-2",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\fd59aca4-9346-40b8-a483-8sgdsgwre.png",
+    "sourceSha256": "76f3e9e6f08e2ccf2ec93d44ada1b2a21293319efb5a6ed74b5b0e95dff71cd8",
+    "publicPath": "/assets/images/crays-pro-20261012/fit-2.webp"
+  },
+  {
+    "name": "fit-3",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\02e7950f-9db5-47a1-9e86-5c99094bdfgdg.png",
+    "sourceSha256": "6d9de07ae1172d6b8e9689f963e7c0f162ad5697196f1122df47c54ddf6c9aff",
+    "publicPath": "/assets/images/crays-pro-20261012/fit-3.webp"
+  },
+  {
+    "name": "fit-4",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\96d387e9-18d7-4a60-b3dd-5aaafb94bad3.png",
+    "sourceSha256": "3388a9b44d191f99624192cc6ac2902a8f173188b6ec64e39e7cc58d82d563d9",
+    "publicPath": "/assets/images/crays-pro-20261012/fit-4.webp"
+  },
+  {
+    "name": "prepared-3",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\bad1616f-1e59-4629-b1fb-a07dc6664359.png",
+    "sourceSha256": "1a69f802d12c85a596c20773305eb557b31cd84b788adab91bf72c2404cb30ca",
+    "publicPath": "/assets/images/crays-pro-20261012/prepared-3.webp"
+  },
+  {
+    "name": "prepared-4",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\8f78949f-5b9a-4c4a-bf1b-274ce811d1a0.png",
+    "sourceSha256": "47c7bef41b7a22dfd872405393e68a71621e4c82d52891d91ec15e0e81c55751",
+    "publicPath": "/assets/images/crays-pro-20261012/prepared-4.webp"
+  },
+  {
+    "name": "prepared-5",
+    "source": "C:\\Users\\34669\\OneDrive - Crays Europe SE\\Dokumente\\Crays\\Bilder\\Forest City KI\\bf8008db-227f-4f19-9f74-b1ee56a6ba98.png",
+    "sourceSha256": "173dd61f14821a8c0e7af3d597d12c7120ca0d4f5e2cb32cdb0f9dd6ba971286",
+    "publicPath": "/assets/images/crays-pro-20261012/prepared-5.webp"
+  }
+]
