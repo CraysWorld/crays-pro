@@ -96,6 +96,21 @@
   border-radius: 5px;
 }
 
+.mobileAccountSlot {
+  display: none;
+  margin-right: 0;
+  font-family: "Crays Avenir Medium", "Avenir Medium", Arial, sans-serif;
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 40px;
+  letter-spacing: 0.14em;
+}
+
+.mobileAccountSlot > :focus-visible {
+  outline: 2px solid #ef1c4a;
+  outline-offset: 2px;
+}
+
 .associationSlot {
   width: 270px;
   height: 44px;
@@ -255,6 +270,10 @@
 
   .accountSlot {
     display: none;
+  }
+
+  .composition .mobileAccountSlot {
+    display: block;
   }
 
 }

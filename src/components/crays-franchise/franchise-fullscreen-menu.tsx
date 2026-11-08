@@ -187,6 +187,9 @@ export function FranchiseFullscreenMenu({
           width={450}
           height={515}
         />
+        <div className={`${styles.accountSlot} ${styles.mobileAccountSlot}`}>
+          {accountControl}
+        </div>
         <nav className={styles.ecosystemRail} aria-label="CRAYS ecosystem">
           {ecosystemRail}
         </nav>
