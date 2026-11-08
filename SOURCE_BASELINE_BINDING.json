@@ -1,0 +1,51 @@
+{
+  "effectiveSourceBase": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/pro-nextjs-20261106-01",
+  "actualQualifiedBuildId": "IC049otOOqe0R6kxolt5O",
+  "legalOverlayManifestSHA256": "293392e871d396c650371a5c320d3286f5281aace10bc6b501d0c1e50b1cee54",
+  "qualifiedLegalOverlays": [
+    {
+      "path": "src/components/crays-franchise/pro-operating-entity.ts",
+      "sha256": "0415b21b6862b53b4b313b7164746abd524a2c69854d74fc32de7b017aaec149"
+    },
+    {
+      "path": "src/components/crays-franchise/club-public/imprint-page.tsx",
+      "sha256": "ac3e48da67365fbea809f9e23f5bcf9e52a4b0bec40d2322419f717439bcb778"
+    },
+    {
+      "path": "src/components/crays-franchise/club-public/legal-copy-v1.ts",
+      "sha256": "19ac810c925c3a7f796b5f5ca95755fb1004c475ba032695b5f1bbc4c655ec37"
+    },
+    {
+      "path": "src/components/crays-franchise/club-public/clubs-contact-page.tsx",
+      "sha256": "a665c7cd98f3dc5eb2343deb4a7bb4586b717abf08e43f25bc0246665c093040"
+    },
+    {
+      "path": "src/components/crays-franchise/club-public/legal-page.tsx",
+      "sha256": "fdce2aabcb5b58c5dd7a0039990bee328796987e166d9191d614591956d83ca0"
+    },
+    {
+      "path": "src/lib/crays-pro-public-metadata.ts",
+      "sha256": "fae36bf27c0c4949ede284fe8cf4b6bd0a1a3dcf9a253b4a13688614d9e29623"
+    }
+  ],
+  "protectedHeaderHeroShellSourcePins": {
+    "src/components/crays-franchise/franchise-header.tsx": "403b094fcc6c6bf9e50560d3b92d6698786dd8d0a3e58aa2c8ff3191cdbf6e23",
+    "src/components/crays-franchise/franchise-header.module.css": "e42fdb73caa412d39839961956a67e2a479436e443a037214c9a137ed182cbac",
+    "src/components/crays-franchise/franchise-shell.tsx": "5ec654845d59ceba95fe5f716d413e94baeac78d7b22d161f9a0ceb3d766ed0f"
+  },
+  "originalPublicAssets": "Read-only borrow only; retain existingqualifiedAWSpublicassetmounts; no generated/replacedimages",
+  "publicAssetAliases": {
+    "favicon.ico": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/private-source-preservation/pro-public-built-runtime-20261105-01/public/favicon.ico",
+    "favicon.svg": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/private-source-preservation/pro-public-built-runtime-20261105-01/public/favicon.svg",
+    "__crays-pro": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/pro-nextjs-20261106-01/public/__crays-pro",
+    "crays-mark.svg": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/private-source-preservation/pro-public-built-runtime-20261105-01/public/crays-mark.svg",
+    "assets": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/private-source-preservation/pro-public-built-runtime-20261105-01/public/assets",
+    "favicon.png": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/private-source-preservation/pro-public-built-runtime-20261105-01/public/favicon.png",
+    "site.webmanifest": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/private-source-preservation/pro-public-built-runtime-20261105-01/public/site.webmanifest",
+    "crays-logo.svg": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/private-source-preservation/pro-public-built-runtime-20261105-01/public/crays-logo.svg",
+    "icon.png": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/private-source-preservation/pro-public-built-runtime-20261105-01/public/icon.png",
+    "__crays-account": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/pro-nextjs-20261106-01/public/__crays-account",
+    "apple-icon.png": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/private-source-preservation/pro-public-built-runtime-20261105-01/public/apple-icon.png",
+    "__crays-clubs": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/private-source-preservation/pro-public-built-runtime-20261105-01/public/__crays-clubs"
+  }
+}
