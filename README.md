@@ -4,6 +4,14 @@ CRAYS Pro introduces CRAYS business concepts and ways to get involved. It brings
 
 This repository contains the public website, including concept pages, partner routes and account entry. The separate [Franchise Investment OS](https://github.com/CraysWorld/crays-franchise) holds its own application interface.
 
+## Property Intelligence and the path to opening
+
+The wider Pro product direction connects a property proposal with location evidence, separate suitability assessments for Gym, Coffee, Retail and Clubs, and the economics and design of a potential location.
+
+The planned journey continues through human review, a prepared project package, partner and funding decisions, procurement and opening. Software helps organise the evidence and handovers; the responsible people make property, franchise and funding commitments.
+
+[Read the connected product vision](https://github.com/CraysWorld/crays-platform/blob/main/docs/product-vision.md#from-a-location-idea-to-an-operating-business)
+
 ## Source layout
 
 | Location | Responsibility |
