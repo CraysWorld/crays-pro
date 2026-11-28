@@ -1,6 +1,8 @@
 # CRAYS Pro
 
-The CRAYS Pro public business/franchise website source and its qualified mobile-menu/login correction.
+CRAYS Pro introduces CRAYS business concepts and ways to get involved. It brings together information for property owners, franchise candidates, operators, investors, vendors and suppliers.
+
+This repository contains the public website, including concept pages, partner routes and account entry. The separate [Franchise Investment OS](https://github.com/CraysWorld/crays-franchise) holds its own application interface.
 
 ## Source layout
 
